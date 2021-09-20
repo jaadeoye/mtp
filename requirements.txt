@@ -1,0 +1,55 @@
+appdirs==1.4.4
+Bottleneck==1.3.2
+brotlipy==0.7.0
+certifi==2021.5.30
+cffi @ file:///opt/concourse/worker/volumes/live/8fbed55e-0573-4246-7cf9-162067141d5e/volume/cffi_1605538070636/work
+chardet @ file:///opt/concourse/worker/volumes/live/a5a7c56b-23cb-471d-7404-f4130b8aed33/volume/chardet_1605303184529/work
+click==8.0.1
+conda==4.10.3
+conda-package-handling @ file:///opt/concourse/worker/volumes/live/a7e34989-4c54-4cb6-4156-4e58ee270730/volume/conda-package-handling_1603018121300/work
+cryptography @ file:///opt/concourse/worker/volumes/live/62f9527a-361c-47e5-5709-227a4a523add/volume/cryptography_1605544472602/work
+cycler==0.10.0
+distlib==0.3.1
+filelock==3.0.12
+Flask==2.0.1
+fonttools==4.25.0
+gunicorn==20.1.0
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+imbalanced-learn==0.8.0
+itsdangerous==2.0.1
+Jinja2==3.0.1
+joblib==1.0.1
+kiwisolver==1.3.2
+MarkupSafe==2.0.1
+matplotlib==3.4.3
+mixed-naive-bayes==0.0.1
+mkl-fft==1.3.0
+mkl-random @ file:///opt/concourse/worker/volumes/live/f196a661-8e33-4aac-63bc-efb2ff50e035/volume/mkl_random_1626186080069/work
+mkl-service==2.4.0
+munkres==1.1.4
+numexpr @ file:///opt/concourse/worker/volumes/live/e845d683-bbb9-4fa2-79ce-743b84c61560/volume/numexpr_1618856522192/work
+numpy @ file:///opt/concourse/worker/volumes/live/0afd8fc7-bc5d-4daa-6017-99ebdf04f26e/volume/numpy_and_numpy_base_1626271794342/work
+olefile==0.46
+pandas==1.3.2
+Pillow==8.3.2
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+ruamel_yaml==0.15.87
+scikit-learn==0.24.2
+scipy==1.7.1
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+six @ file:///opt/concourse/worker/volumes/live/5b31cb27-1e37-4ca5-6e9f-86246eb206d2/volume/six_1605205320872/work
+threadpoolctl==2.2.0
+torch==1.8.1
+tornado @ file:///opt/concourse/worker/volumes/live/05341796-4198-4ded-4a9a-332fde3cdfd1/volume/tornado_1606942323372/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
+typing-extensions==3.7.4.3
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+virtualenv==20.4.4
+Werkzeug==2.0.1
