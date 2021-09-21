@@ -1,1 +1,1 @@
-web: gunicorn mtp.wsgi
+web: gunicorn main:app
